@@ -12,6 +12,7 @@ jobs:
     - name: Create report file
       run: |
         ls ${pwd}
+        ls .
         date +%s > ./dashboards/report.txt
     - name: Pull changes from the PMM instance
       run: |
