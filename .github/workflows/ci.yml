@@ -20,6 +20,7 @@ jobs:
             aemdeveloper/pmm_grafana_backup_tool_test:0.0.2
         echo "${pwd}/dashboards"
         ls -lah ${pwd}/dashboards
+        ls -lah .
 
     - name: Create Pull Request with updated dashboards
       uses: peter-evans/create-pull-request@v4.2.1
