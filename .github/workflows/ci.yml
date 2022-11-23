@@ -16,7 +16,7 @@ jobs:
         docker run --rm \
             -e GRAFANA_TOKEN=${{ secrets.GRAFANA_TOKEN }} \
             -e GRAFANA_URL=${{ secrets.GRAFANA_URL }} \
-            -v ./dashboards:/opt/pmm_grafana_backup_tool/_OUTPUT_  \
+            -v ${pwd}/dashboards:/opt/pmm_grafana_backup_tool/_OUTPUT_  \
             aemdeveloper/pmm_grafana_backup_tool_test:0.0.2
         ls -lah ./dashboards
 
