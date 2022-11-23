@@ -1,17 +1,28 @@
 name: CI
 
-on: [push]
+on:
+  issues:
+    types: [opened, edited, milestoned]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: actions/checkout@v1
-    - name: Run a one-line script
-      run: echo Hello, world!
-    - name: Run a multi-line script
+    - uses: actions/checkout@v3
+    - name: Pull changes from the PMM instance and create PR
       run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
+        mkdir dashboards
+        docker run --rm --name pmm_grafana_backup_tool \              
+            -e GRAFANA_TOKEN=${{ secrets.GRAFANA_TOKEN }} \
+            -e GRAFANA_URL=${{ secrets.GRAFANA_URL }} \
+            -v $(pwd)/dashboards:/opt/pmm_grafana_backup_tool/_OUTPUT_  \
+            aemdeveloper/pmm_grafana_backup_tool_test:latest
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.PAT }}
+          commit-message: Update PMM dashboards
+          title: Update dashboards
+          body: |
+            - Dashboards update
+          branch: update-dashboards
