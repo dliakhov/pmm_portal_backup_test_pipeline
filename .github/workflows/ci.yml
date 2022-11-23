@@ -20,7 +20,7 @@ jobs:
             aemdeveloper/pmm_grafana_backup_tool_test:0.0.2
         ls -lah dashboards
     - name: Create Pull Request with updated dashboards
-      uses: peter-evans/create-pull-request@v4
+      uses: peter-evans/create-pull-request@v4.2.1
       with:
         commit-message: Update PMM dashboards
         committer: GitHub <noreply@github.com>
