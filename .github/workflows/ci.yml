@@ -18,7 +18,8 @@ jobs:
             -e GRAFANA_URL=${{ secrets.GRAFANA_URL }} \
             -v ${pwd}/dashboards:/opt/pmm_grafana_backup_tool/_OUTPUT_  \
             aemdeveloper/pmm_grafana_backup_tool_test:0.0.2
-        ls -lah ./dashboards
+        echo "${pwd}/dashboards"
+        ls -lah ${pwd}/dashboards
 
     - name: Create Pull Request with updated dashboards
       uses: peter-evans/create-pull-request@v4.2.1
