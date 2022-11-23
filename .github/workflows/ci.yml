@@ -9,9 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Create report file
-      run: |
-        date +%s > ./dashboards/report.txt
     - name: Pull changes from the PMM instance
       run: |
         docker pull aemdeveloper/pmm_grafana_backup_tool_test:0.0.2
@@ -19,13 +16,8 @@ jobs:
         docker run --rm \
             -e GRAFANA_TOKEN=${{ secrets.GRAFANA_TOKEN }} \
             -e GRAFANA_URL=${{ secrets.GRAFANA_URL }} \
-            -v ${pwd}/dashboards:/opt/pmm_grafana_backup_tool/_OUTPUT_  \
+            -v $PWD/dashboards:/opt/pmm_grafana_backup_tool/_OUTPUT_  \
             aemdeveloper/pmm_grafana_backup_tool_test:0.0.2
-        echo "${pwd}/dashboards"
-        tree ${pwd}/dashboards
-
-        tree ./dashboards
-        tree $PWD/dashboards
     - name: Create Pull Request with updated dashboards
       uses: peter-evans/create-pull-request@v4.2.1
       with:
