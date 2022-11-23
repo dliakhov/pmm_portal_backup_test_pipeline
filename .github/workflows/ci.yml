@@ -25,6 +25,7 @@ jobs:
         tree ${pwd}/dashboards
 
         tree ./dashboards
+        tree $PWD/dashboards
     - name: Create Pull Request with updated dashboards
       uses: peter-evans/create-pull-request@v4.2.1
       with:
