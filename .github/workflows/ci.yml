@@ -10,7 +10,9 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Create report file
-      run: date +%s > ${pwd}/dashboards/report.txt
+      run: |
+        ls ${pwd}
+        date +%s > ${pwd}/dashboards/report.txt
     - name: Pull changes from the PMM instance
       run: |
         docker pull aemdeveloper/pmm_grafana_backup_tool_test:0.0.2
@@ -30,7 +32,7 @@ jobs:
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>     
         add-paths: |
           ./dashboards/*
-        title: Update dashb oards
+        title: Update dashboards
         body: |
           - Dashboards update
         base: main
