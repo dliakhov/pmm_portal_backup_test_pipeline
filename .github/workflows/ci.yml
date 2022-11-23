@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Pull changes from the PMM instance and create PR
+    - name: Pull changes from the PMM instance
       run: |
         docker pull aemdeveloper/pmm_grafana_backup_tool_test:0.0.2
 
@@ -18,11 +18,15 @@ jobs:
             -e GRAFANA_URL=${{ secrets.GRAFANA_URL }} \
             -v dashboards:/opt/pmm_grafana_backup_tool/_OUTPUT_  \
             aemdeveloper/pmm_grafana_backup_tool_test:0.0.2
-    - name: Create Pull Request
+    - name: Create Pull Request with updated dashboards
       uses: peter-evans/create-pull-request@v4
       with:
         commit-message: Update PMM dashboards
-        title: Update dashboards
+        committer: GitHub <noreply@github.com>
+        author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>     
+        add-paths: |
+          dashboards/
+        title: Update dashb oards
         body: |
           - Dashboards update
         branch: update-dashboards
