@@ -1,15 +1,14 @@
 name: Backup Dashboars
 
-on:
-  issues:
-    types: [edited]
+on: 
+  workflow_dispatch
 
 jobs:
-  build:
+  backup:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Pull changes from the PMM instance
+    - name: Restore dashboards from code to Grafana
       run: |
       
         docker pull aemdeveloper/pmm_grafana_backup_tool_test:0.0.2
