@@ -2380,7 +2380,7 @@
     "timezone": "",
     "title": "MySQL Group Replication Summary",
     "uid": "mysql-group-replicaset-summary",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -2416,9 +2416,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-group-replication-summary",
     "type": "db",
-    "updated": "2022-11-23T10:08:17Z",
+    "updated": "2022-11-24T17:26:22Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-group-replicaset-summary/mysql-group-replication-summary",
-    "version": 9
+    "version": 11
   }
 }

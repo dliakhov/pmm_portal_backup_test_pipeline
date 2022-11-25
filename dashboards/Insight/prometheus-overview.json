@@ -1749,7 +1749,7 @@
     "timezone": "",
     "title": "Prometheus Exporters Overview",
     "uid": "prometheus-overview",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -1785,9 +1785,9 @@
     "publicDashboardEnabled": false,
     "slug": "prometheus-exporters-overview",
     "type": "db",
-    "updated": "2022-11-23T10:08:13Z",
+    "updated": "2022-11-24T17:26:21Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/prometheus-overview/prometheus-exporters-overview",
-    "version": 9
+    "version": 11
   }
 }

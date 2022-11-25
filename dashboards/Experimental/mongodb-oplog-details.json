@@ -1649,7 +1649,7 @@
     "timezone": "",
     "title": "MongoDB Oplog Details",
     "uid": "mongodb-oplog-details",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -1685,9 +1685,9 @@
     "publicDashboardEnabled": false,
     "slug": "mongodb-oplog-details",
     "type": "db",
-    "updated": "2022-11-23T10:08:13Z",
+    "updated": "2022-11-24T17:26:20Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mongodb-oplog-details/mongodb-oplog-details",
-    "version": 9
+    "version": 11
   }
 }

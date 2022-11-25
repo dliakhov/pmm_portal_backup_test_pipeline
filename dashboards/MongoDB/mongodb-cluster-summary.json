@@ -4429,7 +4429,7 @@
     "timezone": "",
     "title": "MongoDB Cluster Summary",
     "uid": "mongodb-cluster-summary",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -4465,9 +4465,9 @@
     "publicDashboardEnabled": false,
     "slug": "mongodb-cluster-summary",
     "type": "db",
-    "updated": "2022-11-23T10:08:14Z",
+    "updated": "2022-11-24T17:26:21Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mongodb-cluster-summary/mongodb-cluster-summary",
-    "version": 9
+    "version": 11
   }
 }

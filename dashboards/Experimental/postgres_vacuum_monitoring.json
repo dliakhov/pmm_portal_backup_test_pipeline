@@ -974,7 +974,7 @@
     "timezone": "",
     "title": "PostgreSQL Vacuum Monitoring",
     "uid": "postgres_vacuum_monitoring",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -1010,9 +1010,9 @@
     "publicDashboardEnabled": false,
     "slug": "postgresql-vacuum-monitoring",
     "type": "db",
-    "updated": "2022-11-23T10:08:13Z",
+    "updated": "2022-11-24T17:26:21Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/postgres_vacuum_monitoring/postgresql-vacuum-monitoring",
-    "version": 9
+    "version": 11
   }
 }

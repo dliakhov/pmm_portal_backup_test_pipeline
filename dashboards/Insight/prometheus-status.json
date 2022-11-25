@@ -4818,7 +4818,7 @@
     "timezone": "",
     "title": "Prometheus Exporter Status",
     "uid": "prometheus-status",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -4854,9 +4854,9 @@
     "publicDashboardEnabled": false,
     "slug": "prometheus-exporter-status",
     "type": "db",
-    "updated": "2022-11-23T10:08:14Z",
+    "updated": "2022-11-24T17:26:21Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/prometheus-status/prometheus-exporter-status",
-    "version": 9
+    "version": 11
   }
 }

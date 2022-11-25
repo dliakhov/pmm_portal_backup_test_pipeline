@@ -1166,7 +1166,7 @@
     "timezone": "",
     "title": "MongoDB Collection Details",
     "uid": "mongodb-collection-details",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -1202,9 +1202,9 @@
     "publicDashboardEnabled": false,
     "slug": "mongodb-collection-details",
     "type": "db",
-    "updated": "2022-11-23T10:08:13Z",
+    "updated": "2022-11-24T17:26:20Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mongodb-collection-details/mongodb-collection-details",
-    "version": 9
+    "version": 11
   }
 }

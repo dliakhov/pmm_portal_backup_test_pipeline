@@ -268,7 +268,7 @@
     "timezone": "",
     "title": "Update alert rule via API",
     "uid": "a7eI7bdVz",
-    "version": 10,
+    "version": 13,
     "weekStart": ""
   },
   "meta": {
@@ -304,9 +304,9 @@
     "publicDashboardEnabled": false,
     "slug": "update-alert-rule-via-api",
     "type": "db",
-    "updated": "2022-11-23T10:08:13Z",
+    "updated": "2022-11-24T17:26:21Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/a7eI7bdVz/update-alert-rule-via-api",
-    "version": 10
+    "version": 13
   }
 }
