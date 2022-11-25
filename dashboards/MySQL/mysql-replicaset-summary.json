@@ -4396,7 +4396,7 @@
     "timezone": "",
     "title": "MySQL Replication Summary",
     "uid": "mysql-replicaset-summary",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -4432,9 +4432,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-replication-summary",
     "type": "db",
-    "updated": "2022-11-23T10:08:18Z",
+    "updated": "2022-11-24T17:26:22Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-replicaset-summary/mysql-replication-summary",
-    "version": 9
+    "version": 11
   }
 }

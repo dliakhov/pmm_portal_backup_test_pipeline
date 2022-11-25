@@ -1998,7 +1998,7 @@
     "timezone": "browser",
     "title": "Environments Overview (Designed for PMM)",
     "uid": "environments-overview",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -2034,9 +2034,9 @@
     "publicDashboardEnabled": false,
     "slug": "environments-overview-designed-for-pmm",
     "type": "db",
-    "updated": "2022-11-23T10:08:13Z",
+    "updated": "2022-11-24T17:26:20Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/environments-overview/environments-overview-designed-for-pmm",
-    "version": 9
+    "version": 11
   }
 }

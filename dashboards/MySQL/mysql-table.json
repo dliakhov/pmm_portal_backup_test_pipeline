@@ -3954,7 +3954,7 @@
     "timezone": "",
     "title": "MySQL Table Details",
     "uid": "mysql-table",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -3990,9 +3990,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-table-details",
     "type": "db",
-    "updated": "2022-11-23T10:08:18Z",
+    "updated": "2022-11-24T17:26:23Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-table/mysql-table-details",
-    "version": 9
+    "version": 11
   }
 }

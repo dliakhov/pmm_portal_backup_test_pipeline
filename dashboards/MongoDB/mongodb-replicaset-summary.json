@@ -4245,7 +4245,7 @@
     "timezone": "",
     "title": "MongoDB ReplSet Summary",
     "uid": "mongodb-replicaset-summary",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -4281,9 +4281,9 @@
     "publicDashboardEnabled": false,
     "slug": "mongodb-replset-summary",
     "type": "db",
-    "updated": "2022-11-23T10:08:16Z",
+    "updated": "2022-11-24T17:26:22Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mongodb-replicaset-summary/mongodb-replset-summary",
-    "version": 9
+    "version": 11
   }
 }

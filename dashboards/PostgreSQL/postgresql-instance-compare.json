@@ -4298,7 +4298,7 @@
     "timezone": "",
     "title": "PostgreSQL Instances Compare",
     "uid": "postgresql-instance-compare",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -4334,9 +4334,9 @@
     "publicDashboardEnabled": false,
     "slug": "postgresql-instances-compare",
     "type": "db",
-    "updated": "2022-11-23T10:08:20Z",
+    "updated": "2022-11-24T17:26:24Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/postgresql-instance-compare/postgresql-instances-compare",
-    "version": 9
+    "version": 11
   }
 }

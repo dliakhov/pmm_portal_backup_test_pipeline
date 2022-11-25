@@ -8606,7 +8606,7 @@
     "timezone": "",
     "title": "MySQL Instances Overview",
     "uid": "mysql-instance-overview",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -8642,9 +8642,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-instances-overview",
     "type": "db",
-    "updated": "2022-11-23T10:08:17Z",
+    "updated": "2022-11-24T17:26:22Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-instance-overview/mysql-instances-overview",
-    "version": 9
+    "version": 11
   }
 }

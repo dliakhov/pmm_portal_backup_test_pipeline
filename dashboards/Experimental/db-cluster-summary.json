@@ -2737,7 +2737,7 @@
     "timezone": "browser",
     "title": "DB Cluster Summary",
     "uid": "db-cluster-summary",
-    "version": 11,
+    "version": 13,
     "weekStart": ""
   },
   "meta": {
@@ -2773,9 +2773,9 @@
     "publicDashboardEnabled": false,
     "slug": "db-cluster-summary",
     "type": "db",
-    "updated": "2022-11-23T10:08:13Z",
+    "updated": "2022-11-24T17:26:20Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/db-cluster-summary/db-cluster-summary",
-    "version": 11
+    "version": 13
   }
 }

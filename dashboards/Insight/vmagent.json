@@ -3867,7 +3867,7 @@
     "timezone": "",
     "title": "VictoriaMetrics Agents Overview",
     "uid": "vmagent",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -3903,9 +3903,9 @@
     "publicDashboardEnabled": false,
     "slug": "victoriametrics-agents-overview",
     "type": "db",
-    "updated": "2022-11-23T10:08:14Z",
+    "updated": "2022-11-24T17:26:21Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/vmagent/victoriametrics-agents-overview",
-    "version": 9
+    "version": 11
   }
 }

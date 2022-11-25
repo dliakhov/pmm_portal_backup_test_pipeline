@@ -11189,7 +11189,7 @@
     "timezone": "",
     "title": "PostgreSQL Instances Overview",
     "uid": "postgresql-instance-overview",
-    "version": 9,
+    "version": 11,
     "weekStart": ""
   },
   "meta": {
@@ -11225,9 +11225,9 @@
     "publicDashboardEnabled": false,
     "slug": "postgresql-instances-overview",
     "type": "db",
-    "updated": "2022-11-23T10:08:20Z",
+    "updated": "2022-11-24T17:26:24Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/postgresql-instance-overview/postgresql-instances-overview",
-    "version": 9
+    "version": 11
   }
 }
