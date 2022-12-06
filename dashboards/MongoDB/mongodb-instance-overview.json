@@ -52,7 +52,7 @@
     "editable": false,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 1,
-    "id": 28,
+    "id": 37,
     "iteration": 1656496178520,
     "links": [
       {
@@ -9397,7 +9397,7 @@
     "timezone": "",
     "title": "MongoDB Instances Overview",
     "uid": "mongodb-instance-overview",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -9418,13 +9418,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:51Z",
+    "created": "2022-11-28T11:40:18Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 18,
+    "folderId": 24,
     "folderTitle": "MongoDB",
-    "folderUid": "P7WYKjv4z",
-    "folderUrl": "/graph/dashboards/f/P7WYKjv4z/mongodb",
+    "folderUid": "6PEuUkF4z",
+    "folderUrl": "/graph/dashboards/f/6PEuUkF4z/mongodb",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -9433,9 +9433,9 @@
     "publicDashboardEnabled": false,
     "slug": "mongodb-instances-overview",
     "type": "db",
-    "updated": "2022-11-24T17:26:21Z",
+    "updated": "2022-11-28T11:40:18Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mongodb-instance-overview/mongodb-instances-overview",
-    "version": 11
+    "version": 1
   }
 }

@@ -52,7 +52,7 @@
     "fiscalYearStartMonth": 0,
     "gnetId": null,
     "graphTooltip": 1,
-    "id": 33,
+    "id": 59,
     "iteration": 1656510404356,
     "links": [
       {
@@ -5888,7 +5888,7 @@
     "timezone": "",
     "title": "PostgreSQL Instance Summary",
     "uid": "postgresql-instance-summary",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -5909,13 +5909,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:51Z",
+    "created": "2022-11-28T11:40:19Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 23,
+    "folderId": 20,
     "folderTitle": "PostgreSQL",
-    "folderUid": "DNZYKjvVz",
-    "folderUrl": "/graph/dashboards/f/DNZYKjvVz/postgresql",
+    "folderUid": "TvLX8kK4z",
+    "folderUrl": "/graph/dashboards/f/TvLX8kK4z/postgresql",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -5924,9 +5924,9 @@
     "publicDashboardEnabled": false,
     "slug": "postgresql-instance-summary",
     "type": "db",
-    "updated": "2022-11-24T17:26:24Z",
+    "updated": "2022-11-28T11:40:19Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/postgresql-instance-summary/postgresql-instance-summary",
-    "version": 11
+    "version": 1
   }
 }

@@ -50,7 +50,7 @@
     "editable": false,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 1,
-    "id": 4,
+    "id": 14,
     "iteration": 1656509691137,
     "links": [
       {
@@ -3669,7 +3669,7 @@
     "timezone": "",
     "title": "NUMA Details",
     "uid": "node-memory-numa",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -3690,13 +3690,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:48Z",
+    "created": "2022-11-28T11:40:16Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
     "folderId": 3,
     "folderTitle": "OS",
-    "folderUid": "R-RLFjDVz",
-    "folderUrl": "/graph/dashboards/f/R-RLFjDVz/os",
+    "folderUid": "kXBuUkF4k",
+    "folderUrl": "/graph/dashboards/f/kXBuUkF4k/os",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -3705,9 +3705,9 @@
     "publicDashboardEnabled": false,
     "slug": "numa-details",
     "type": "db",
-    "updated": "2022-11-24T17:26:23Z",
+    "updated": "2022-11-28T11:40:16Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/node-memory-numa/numa-details",
-    "version": 11
+    "version": 1
   }
 }

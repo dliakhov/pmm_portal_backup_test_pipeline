@@ -52,7 +52,7 @@
     "fiscalYearStartMonth": 0,
     "gnetId": null,
     "graphTooltip": 1,
-    "id": 22,
+    "id": 30,
     "iteration": 1656509687087,
     "links": [
       {
@@ -3486,7 +3486,7 @@
     "timezone": "",
     "title": "Nodes Compare",
     "uid": "node-instance-compare",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -3507,13 +3507,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:50Z",
+    "created": "2022-11-28T11:40:18Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
     "folderId": 3,
     "folderTitle": "OS",
-    "folderUid": "R-RLFjDVz",
-    "folderUrl": "/graph/dashboards/f/R-RLFjDVz/os",
+    "folderUid": "kXBuUkF4k",
+    "folderUrl": "/graph/dashboards/f/kXBuUkF4k/os",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -3522,9 +3522,9 @@
     "publicDashboardEnabled": false,
     "slug": "nodes-compare",
     "type": "db",
-    "updated": "2022-11-24T17:26:23Z",
+    "updated": "2022-11-28T11:40:18Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/node-instance-compare/nodes-compare",
-    "version": 11
+    "version": 1
   }
 }

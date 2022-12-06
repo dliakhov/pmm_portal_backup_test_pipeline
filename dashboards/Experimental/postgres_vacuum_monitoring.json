@@ -51,7 +51,7 @@
     "editable": false,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 1,
-    "id": 25,
+    "id": 17,
     "iteration": 1662975360506,
     "links": [
       {
@@ -974,7 +974,7 @@
     "timezone": "",
     "title": "PostgreSQL Vacuum Monitoring",
     "uid": "postgres_vacuum_monitoring",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -995,13 +995,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:50Z",
+    "created": "2022-11-28T11:40:17Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 8,
+    "folderId": 15,
     "folderTitle": "Experimental",
-    "folderUid": "6BRYFCvVz",
-    "folderUrl": "/graph/dashboards/f/6BRYFCvVz/experimental",
+    "folderUid": "DVLX8zK4k",
+    "folderUrl": "/graph/dashboards/f/DVLX8zK4k/experimental",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -1010,9 +1010,9 @@
     "publicDashboardEnabled": false,
     "slug": "postgresql-vacuum-monitoring",
     "type": "db",
-    "updated": "2022-11-24T17:26:21Z",
+    "updated": "2022-11-28T11:40:17Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/postgres_vacuum_monitoring/postgresql-vacuum-monitoring",
-    "version": 11
+    "version": 1
   }
 }

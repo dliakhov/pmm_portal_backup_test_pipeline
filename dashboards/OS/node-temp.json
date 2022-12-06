@@ -50,7 +50,7 @@
     "editable": false,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 1,
-    "id": 64,
+    "id": 34,
     "iteration": 1656509671269,
     "links": [
       {
@@ -1012,7 +1012,7 @@
     "timezone": "",
     "title": "Node Temperature Details",
     "uid": "node-temp",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -1033,13 +1033,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:51Z",
+    "created": "2022-11-28T11:40:18Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
     "folderId": 3,
     "folderTitle": "OS",
-    "folderUid": "R-RLFjDVz",
-    "folderUrl": "/graph/dashboards/f/R-RLFjDVz/os",
+    "folderUid": "kXBuUkF4k",
+    "folderUrl": "/graph/dashboards/f/kXBuUkF4k/os",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -1048,9 +1048,9 @@
     "publicDashboardEnabled": false,
     "slug": "node-temperature-details",
     "type": "db",
-    "updated": "2022-11-24T17:26:24Z",
+    "updated": "2022-11-28T11:40:18Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/node-temp/node-temperature-details",
-    "version": 11
+    "version": 1
   }
 }
