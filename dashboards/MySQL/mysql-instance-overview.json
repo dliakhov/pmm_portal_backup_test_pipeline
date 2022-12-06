@@ -52,7 +52,7 @@
     "editable": false,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 1,
-    "id": 14,
+    "id": 10,
     "iteration": 1656499698794,
     "links": [
       {
@@ -8606,7 +8606,7 @@
     "timezone": "",
     "title": "MySQL Instances Overview",
     "uid": "mysql-instance-overview",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -8627,13 +8627,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:50Z",
+    "created": "2022-11-28T11:40:16Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 10,
+    "folderId": 1,
     "folderTitle": "MySQL",
-    "folderUid": "ULRLKjv4k",
-    "folderUrl": "/graph/dashboards/f/ULRLKjv4k/mysql",
+    "folderUid": "AQBX8kK4k",
+    "folderUrl": "/graph/dashboards/f/AQBX8kK4k/mysql",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -8642,9 +8642,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-instances-overview",
     "type": "db",
-    "updated": "2022-11-24T17:26:22Z",
+    "updated": "2022-11-28T11:40:16Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-instance-overview/mysql-instances-overview",
-    "version": 11
+    "version": 1
   }
 }

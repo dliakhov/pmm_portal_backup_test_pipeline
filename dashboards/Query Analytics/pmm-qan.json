@@ -35,7 +35,7 @@
     "editable": false,
     "gnetId": null,
     "graphTooltip": 1,
-    "id": 7,
+    "id": 32,
     "iteration": 1572522205450,
     "links": [
       {
@@ -488,7 +488,7 @@
     "timezone": "",
     "title": "PMM Query Analytics",
     "uid": "pmm-qan",
-    "version": 11
+    "version": 1
   },
   "meta": {
     "annotationsPermissions": {
@@ -508,13 +508,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:48Z",
+    "created": "2022-11-28T11:40:18Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 6,
+    "folderId": 31,
     "folderTitle": "Query Analytics",
-    "folderUid": "FBgYKCD4z",
-    "folderUrl": "/graph/dashboards/f/FBgYKCD4z/query-analytics",
+    "folderUid": "ECEu8zK4z",
+    "folderUrl": "/graph/dashboards/f/ECEu8zK4z/query-analytics",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -523,9 +523,9 @@
     "publicDashboardEnabled": false,
     "slug": "pmm-query-analytics",
     "type": "db",
-    "updated": "2022-11-24T17:26:24Z",
+    "updated": "2022-11-28T11:40:18Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/pmm-qan/pmm-query-analytics",
-    "version": 11
+    "version": 1
   }
 }

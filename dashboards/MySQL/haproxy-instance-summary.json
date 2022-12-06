@@ -8444,7 +8444,7 @@
     "timezone": "",
     "title": "HAProxy Instance Summary",
     "uid": "haproxy-instance-summary",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -8465,13 +8465,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:50Z",
+    "created": "2022-11-28T11:40:16Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 10,
+    "folderId": 1,
     "folderTitle": "MySQL",
-    "folderUid": "ULRLKjv4k",
-    "folderUrl": "/graph/dashboards/f/ULRLKjv4k/mysql",
+    "folderUid": "AQBX8kK4k",
+    "folderUrl": "/graph/dashboards/f/AQBX8kK4k/mysql",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -8480,9 +8480,9 @@
     "publicDashboardEnabled": false,
     "slug": "haproxy-instance-summary",
     "type": "db",
-    "updated": "2022-11-24T17:26:22Z",
+    "updated": "2022-11-28T11:40:16Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/haproxy-instance-summary/haproxy-instance-summary",
-    "version": 11
+    "version": 1
   }
 }

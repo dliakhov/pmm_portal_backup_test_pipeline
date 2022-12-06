@@ -50,7 +50,7 @@
     "editable": false,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 1,
-    "id": 39,
+    "id": 5,
     "iteration": 1656500128970,
     "links": [
       {
@@ -4040,7 +4040,7 @@
     "timezone": "",
     "title": "MySQL Performance Schema Details",
     "uid": "mysql-performance-schema",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -4061,13 +4061,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:51Z",
+    "created": "2022-11-28T11:40:16Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 10,
+    "folderId": 1,
     "folderTitle": "MySQL",
-    "folderUid": "ULRLKjv4k",
-    "folderUrl": "/graph/dashboards/f/ULRLKjv4k/mysql",
+    "folderUid": "AQBX8kK4k",
+    "folderUrl": "/graph/dashboards/f/AQBX8kK4k/mysql",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -4076,9 +4076,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-performance-schema-details",
     "type": "db",
-    "updated": "2022-11-24T17:26:22Z",
+    "updated": "2022-11-28T11:40:16Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-performance-schema/mysql-performance-schema-details",
-    "version": 11
+    "version": 1
   }
 }

@@ -56,7 +56,7 @@
     "editable": false,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 1,
-    "id": 31,
+    "id": 39,
     "links": [
       {
         "asDropdown": false,
@@ -2259,7 +2259,7 @@
                 "mappings": [],
                 "max": 100,
                 "min": 0,
-                "noValue": "No CPU delta usage detected from previouse week",
+                "noValue": "No CPU delta usage detected from previous week",
                 "thresholds": {
                   "mode": "absolute",
                   "steps": [
@@ -2365,7 +2365,7 @@
                 "mappings": [],
                 "max": 100,
                 "min": 0,
-                "noValue": "No CPU usage data from previouse week",
+                "noValue": "No CPU usage data from previous week",
                 "thresholds": {
                   "mode": "absolute",
                   "steps": [
@@ -2578,7 +2578,7 @@
                 ],
                 "mappings": [],
                 "max": 50,
-                "noValue": "No disk queue delta usage detected from previouse week",
+                "noValue": "No disk queue delta usage detected from previous week",
                 "thresholds": {
                   "mode": "absolute",
                   "steps": [
@@ -2689,7 +2689,7 @@
                 ],
                 "mappings": [],
                 "max": 50,
-                "noValue": "No disk queue data from previouse week",
+                "noValue": "No disk queue data from previous week",
                 "thresholds": {
                   "mode": "absolute",
                   "steps": [
@@ -2919,7 +2919,7 @@
                 ],
                 "mappings": [],
                 "max": 1,
-                "noValue": "No write latency delta detected from previouse week",
+                "noValue": "No write latency delta detected from previous week",
                 "thresholds": {
                   "mode": "absolute",
                   "steps": [
@@ -3029,7 +3029,7 @@
                 ],
                 "mappings": [],
                 "max": 1,
-                "noValue": "No write latency data from previouse week",
+                "noValue": "No write latency data from previous week",
                 "thresholds": {
                   "mode": "absolute",
                   "steps": [
@@ -3251,7 +3251,7 @@
                 ],
                 "mappings": [],
                 "max": 1,
-                "noValue": "No read latency delta detected from previouse week",
+                "noValue": "No read latency delta detected from previous week",
                 "thresholds": {
                   "mode": "absolute",
                   "steps": [
@@ -3362,7 +3362,7 @@
                 ],
                 "mappings": [],
                 "max": 1,
-                "noValue": "No read latency data from previouse week",
+                "noValue": "No read latency data from previous week",
                 "thresholds": {
                   "mode": "absolute",
                   "steps": [
@@ -3586,7 +3586,7 @@
                   }
                 ],
                 "mappings": [],
-                "noValue": "No user memory delta usage detected from previouse week",
+                "noValue": "No user memory delta usage detected from previous week",
                 "thresholds": {
                   "mode": "absolute",
                   "steps": [
@@ -3727,7 +3727,7 @@
                   }
                 ],
                 "mappings": [],
-                "noValue": "No used memory data from previouse week",
+                "noValue": "No used memory data from previous week",
                 "thresholds": {
                   "mode": "absolute",
                   "steps": [
@@ -4932,7 +4932,7 @@
     "timezone": "",
     "title": "Home Dashboard",
     "uid": "pmm-home",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -4953,13 +4953,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:51Z",
+    "created": "2022-11-28T11:40:18Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 1,
+    "folderId": 8,
     "folderTitle": "Insight",
-    "folderUid": "P1RYFjv4k",
-    "folderUrl": "/graph/dashboards/f/P1RYFjv4k/insight",
+    "folderUid": "F6BuUkFVk",
+    "folderUrl": "/graph/dashboards/f/F6BuUkFVk/insight",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -4968,9 +4968,9 @@
     "publicDashboardEnabled": false,
     "slug": "home-dashboard",
     "type": "db",
-    "updated": "2022-11-24T17:26:21Z",
+    "updated": "2022-11-28T11:40:18Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/pmm-home/home-dashboard",
-    "version": 11
+    "version": 1
   }
 }

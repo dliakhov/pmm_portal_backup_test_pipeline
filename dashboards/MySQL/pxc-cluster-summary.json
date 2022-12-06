@@ -48,7 +48,7 @@
     "editable": false,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 1,
-    "id": 53,
+    "id": 12,
     "iteration": 1656509003241,
     "links": [
       {
@@ -2133,7 +2133,7 @@
     "timezone": "",
     "title": "PXC/Galera Cluster Summary",
     "uid": "pxc-cluster-summary",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -2154,13 +2154,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:51Z",
+    "created": "2022-11-28T11:40:16Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 10,
+    "folderId": 1,
     "folderTitle": "MySQL",
-    "folderUid": "ULRLKjv4k",
-    "folderUrl": "/graph/dashboards/f/ULRLKjv4k/mysql",
+    "folderUid": "AQBX8kK4k",
+    "folderUrl": "/graph/dashboards/f/AQBX8kK4k/mysql",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -2169,9 +2169,9 @@
     "publicDashboardEnabled": false,
     "slug": "pxc-galera-cluster-summary",
     "type": "db",
-    "updated": "2022-11-24T17:26:23Z",
+    "updated": "2022-11-28T11:40:16Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/pxc-cluster-summary/pxc-galera-cluster-summary",
-    "version": 11
+    "version": 1
   }
 }

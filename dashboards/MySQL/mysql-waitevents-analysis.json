@@ -50,7 +50,7 @@
     "editable": false,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 1,
-    "id": 46,
+    "id": 29,
     "iteration": 1656508806875,
     "links": [
       {
@@ -3387,7 +3387,7 @@
     "timezone": "",
     "title": "MySQL Wait Event Analyses Details",
     "uid": "mysql-waitevents-analysis",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -3408,13 +3408,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:51Z",
+    "created": "2022-11-28T11:40:18Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 10,
+    "folderId": 1,
     "folderTitle": "MySQL",
-    "folderUid": "ULRLKjv4k",
-    "folderUrl": "/graph/dashboards/f/ULRLKjv4k/mysql",
+    "folderUid": "AQBX8kK4k",
+    "folderUrl": "/graph/dashboards/f/AQBX8kK4k/mysql",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -3423,9 +3423,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-wait-event-analyses-details",
     "type": "db",
-    "updated": "2022-11-24T17:26:23Z",
+    "updated": "2022-11-28T11:40:18Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-waitevents-analysis/mysql-wait-event-analyses-details",
-    "version": 11
+    "version": 1
   }
 }

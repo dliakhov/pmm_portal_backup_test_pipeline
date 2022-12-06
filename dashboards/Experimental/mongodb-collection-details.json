@@ -43,7 +43,7 @@
     "editable": false,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 1,
-    "id": 42,
+    "id": 38,
     "links": [
       {
         "asDropdown": false,
@@ -1166,7 +1166,7 @@
     "timezone": "",
     "title": "MongoDB Collection Details",
     "uid": "mongodb-collection-details",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -1187,13 +1187,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:51Z",
+    "created": "2022-11-28T11:40:18Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 8,
+    "folderId": 15,
     "folderTitle": "Experimental",
-    "folderUid": "6BRYFCvVz",
-    "folderUrl": "/graph/dashboards/f/6BRYFCvVz/experimental",
+    "folderUid": "DVLX8zK4k",
+    "folderUrl": "/graph/dashboards/f/DVLX8zK4k/experimental",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -1202,9 +1202,9 @@
     "publicDashboardEnabled": false,
     "slug": "mongodb-collection-details",
     "type": "db",
-    "updated": "2022-11-24T17:26:20Z",
+    "updated": "2022-11-28T11:40:18Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mongodb-collection-details/mongodb-collection-details",
-    "version": 11
+    "version": 1
   }
 }

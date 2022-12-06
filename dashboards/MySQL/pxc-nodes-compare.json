@@ -50,7 +50,7 @@
     "editable": false,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 1,
-    "id": 21,
+    "id": 19,
     "iteration": 1656509006897,
     "links": [
       {
@@ -2554,7 +2554,7 @@
     "timezone": "",
     "title": "PXC/Galera Nodes Compare",
     "uid": "pxc-nodes-compare",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -2575,13 +2575,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:50Z",
+    "created": "2022-11-28T11:40:17Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 10,
+    "folderId": 1,
     "folderTitle": "MySQL",
-    "folderUid": "ULRLKjv4k",
-    "folderUrl": "/graph/dashboards/f/ULRLKjv4k/mysql",
+    "folderUid": "AQBX8kK4k",
+    "folderUrl": "/graph/dashboards/f/AQBX8kK4k/mysql",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -2590,9 +2590,9 @@
     "publicDashboardEnabled": false,
     "slug": "pxc-galera-nodes-compare",
     "type": "db",
-    "updated": "2022-11-24T17:26:23Z",
+    "updated": "2022-11-28T11:40:17Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/pxc-nodes-compare/pxc-galera-nodes-compare",
-    "version": 11
+    "version": 1
   }
 }

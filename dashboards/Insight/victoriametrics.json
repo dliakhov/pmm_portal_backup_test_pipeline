@@ -50,7 +50,7 @@
     "fiscalYearStartMonth": 0,
     "gnetId": null,
     "graphTooltip": 1,
-    "id": 48,
+    "id": 40,
     "iteration": 1647263091721,
     "links": [
       {
@@ -4143,7 +4143,7 @@
     "timezone": "",
     "title": "VictoriaMetrics",
     "uid": "victoriametrics",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -4164,13 +4164,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:51Z",
+    "created": "2022-11-28T11:40:18Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 1,
+    "folderId": 8,
     "folderTitle": "Insight",
-    "folderUid": "P1RYFjv4k",
-    "folderUrl": "/graph/dashboards/f/P1RYFjv4k/insight",
+    "folderUid": "F6BuUkFVk",
+    "folderUrl": "/graph/dashboards/f/F6BuUkFVk/insight",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -4179,9 +4179,9 @@
     "publicDashboardEnabled": false,
     "slug": "victoriametrics",
     "type": "db",
-    "updated": "2022-11-24T17:26:21Z",
+    "updated": "2022-11-28T11:40:18Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/victoriametrics/victoriametrics",
-    "version": 11
+    "version": 1
   }
 }

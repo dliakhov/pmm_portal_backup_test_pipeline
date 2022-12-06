@@ -50,7 +50,7 @@
     "editable": false,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 1,
-    "id": 35,
+    "id": 52,
     "iteration": 1656404457834,
     "links": [
       {
@@ -841,7 +841,7 @@
     "timezone": "",
     "title": "Advanced Data Exploration",
     "uid": "prometheus-advanced",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -862,13 +862,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:51Z",
+    "created": "2022-11-28T11:40:19Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
-    "folderId": 1,
+    "folderId": 8,
     "folderTitle": "Insight",
-    "folderUid": "P1RYFjv4k",
-    "folderUrl": "/graph/dashboards/f/P1RYFjv4k/insight",
+    "folderUid": "F6BuUkFVk",
+    "folderUrl": "/graph/dashboards/f/F6BuUkFVk/insight",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -877,9 +877,9 @@
     "publicDashboardEnabled": false,
     "slug": "advanced-data-exploration",
     "type": "db",
-    "updated": "2022-11-24T17:26:21Z",
+    "updated": "2022-11-28T11:40:19Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/prometheus-advanced/advanced-data-exploration",
-    "version": 11
+    "version": 1
   }
 }

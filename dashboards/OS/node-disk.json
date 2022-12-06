@@ -50,7 +50,7 @@
     "editable": false,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 1,
-    "id": 40,
+    "id": 13,
     "iteration": 1656509261089,
     "links": [
       {
@@ -2301,7 +2301,7 @@
     "timezone": "",
     "title": "Disk Details",
     "uid": "node-disk",
-    "version": 11,
+    "version": 1,
     "weekStart": ""
   },
   "meta": {
@@ -2322,13 +2322,13 @@
     "canEdit": true,
     "canSave": true,
     "canStar": true,
-    "created": "2022-11-14T08:16:51Z",
+    "created": "2022-11-28T11:40:16Z",
     "createdBy": "Anonymous",
     "expires": "0001-01-01T00:00:00Z",
     "folderId": 3,
     "folderTitle": "OS",
-    "folderUid": "R-RLFjDVz",
-    "folderUrl": "/graph/dashboards/f/R-RLFjDVz/os",
+    "folderUid": "kXBuUkF4k",
+    "folderUrl": "/graph/dashboards/f/kXBuUkF4k/os",
     "hasAcl": false,
     "isFolder": false,
     "provisioned": true,
@@ -2337,9 +2337,9 @@
     "publicDashboardEnabled": false,
     "slug": "disk-details",
     "type": "db",
-    "updated": "2022-11-24T17:26:23Z",
+    "updated": "2022-11-28T11:40:16Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/node-disk/disk-details",
-    "version": 11
+    "version": 1
   }
 }
