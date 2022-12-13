@@ -5657,7 +5657,7 @@
     "timezone": "",
     "title": "Memory Details",
     "uid": "node-memory",
-    "version": 1,
+    "version": 2,
     "weekStart": ""
   },
   "meta": {
@@ -5693,9 +5693,9 @@
     "publicDashboardEnabled": false,
     "slug": "memory-details",
     "type": "db",
-    "updated": "2022-11-28T11:40:16Z",
+    "updated": "2022-12-06T13:31:06Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/node-memory/memory-details",
-    "version": 1
+    "version": 2
   }
 }

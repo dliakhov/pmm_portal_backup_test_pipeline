@@ -5113,7 +5113,7 @@
     "timezone": "",
     "title": "PXC Galera Cluster Summary (experimental)",
     "uid": "pxc_galera_cluster_summary",
-    "version": 1,
+    "version": 2,
     "weekStart": ""
   },
   "meta": {
@@ -5149,9 +5149,9 @@
     "publicDashboardEnabled": false,
     "slug": "pxc-galera-cluster-summary-experimental",
     "type": "db",
-    "updated": "2022-11-28T11:40:19Z",
+    "updated": "2022-12-06T13:30:50Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/pxc_galera_cluster_summary/pxc-galera-cluster-summary-experimental",
-    "version": 1
+    "version": 2
   }
 }

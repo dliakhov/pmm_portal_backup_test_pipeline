@@ -25230,7 +25230,7 @@
     "timezone": "",
     "title": "MySQL InnoDB Details",
     "uid": "mysql-innodb",
-    "version": 1,
+    "version": 2,
     "weekStart": ""
   },
   "meta": {
@@ -25266,9 +25266,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-innodb-details",
     "type": "db",
-    "updated": "2022-11-28T11:40:18Z",
+    "updated": "2022-12-06T13:30:58Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-innodb/mysql-innodb-details",
-    "version": 1
+    "version": 2
   }
 }

@@ -9397,7 +9397,7 @@
     "timezone": "",
     "title": "MongoDB Instances Overview",
     "uid": "mongodb-instance-overview",
-    "version": 1,
+    "version": 2,
     "weekStart": ""
   },
   "meta": {
@@ -9433,9 +9433,9 @@
     "publicDashboardEnabled": false,
     "slug": "mongodb-instances-overview",
     "type": "db",
-    "updated": "2022-11-28T11:40:18Z",
+    "updated": "2022-12-06T13:30:53Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mongodb-instance-overview/mongodb-instances-overview",
-    "version": 1
+    "version": 2
   }
 }

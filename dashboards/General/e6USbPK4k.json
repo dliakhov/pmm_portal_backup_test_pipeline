@@ -136,7 +136,7 @@
     "timezone": "",
     "title": "Test dashboard",
     "uid": "e6USbPK4k",
-    "version": 1,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -172,9 +172,9 @@
     "publicDashboardEnabled": false,
     "slug": "test-dashboard",
     "type": "db",
-    "updated": "2022-12-06T13:28:37Z",
-    "updatedBy": "admin",
+    "updated": "2022-12-06T13:30:50Z",
+    "updatedBy": "Anonymous",
     "url": "/graph/d/e6USbPK4k/test-dashboard",
-    "version": 1
+    "version": 3
   }
 }
