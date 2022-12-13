@@ -1368,7 +1368,7 @@
     "timezone": "",
     "title": "MySQL Amazon Aurora Details",
     "uid": "mysql-amazonaurora",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -1404,9 +1404,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-amazon-aurora-details",
     "type": "db",
-    "updated": "2022-12-06T13:30:56Z",
+    "updated": "2022-12-13T14:07:14Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-amazonaurora/mysql-amazon-aurora-details",
-    "version": 2
+    "version": 3
   }
 }

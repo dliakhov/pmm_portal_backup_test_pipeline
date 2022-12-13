@@ -1837,7 +1837,7 @@
     "timezone": "",
     "title": "MongoDB Collections Overview",
     "uid": "mongodb-collections-overview",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -1873,9 +1873,9 @@
     "publicDashboardEnabled": false,
     "slug": "mongodb-collections-overview",
     "type": "db",
-    "updated": "2022-12-06T13:30:48Z",
+    "updated": "2022-12-13T14:06:58Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mongodb-collections-overview/mongodb-collections-overview",
-    "version": 2
+    "version": 3
   }
 }

@@ -4974,7 +4974,7 @@
     "timezone": "",
     "title": "MySQL Instances Compare",
     "uid": "mysql-instance-compare",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -5010,9 +5010,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-instances-compare",
     "type": "db",
-    "updated": "2022-12-06T13:30:59Z",
+    "updated": "2022-12-13T14:07:17Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-instance-compare/mysql-instances-compare",
-    "version": 2
+    "version": 3
   }
 }

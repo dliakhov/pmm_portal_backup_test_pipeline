@@ -4417,7 +4417,7 @@
     "timezone": "",
     "title": "MongoDB WiredTiger Details",
     "uid": "mongodb-wiredtiger",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -4453,9 +4453,9 @@
     "publicDashboardEnabled": false,
     "slug": "mongodb-wiredtiger-details",
     "type": "db",
-    "updated": "2022-12-06T13:30:55Z",
+    "updated": "2022-12-13T14:07:13Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mongodb-wiredtiger/mongodb-wiredtiger-details",
-    "version": 2
+    "version": 3
   }
 }

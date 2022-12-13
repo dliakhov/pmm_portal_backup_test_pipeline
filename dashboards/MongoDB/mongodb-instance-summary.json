@@ -3803,7 +3803,7 @@
     "timezone": "",
     "title": "MongoDB Instance Summary",
     "uid": "mongodb-instance-summary",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -3839,9 +3839,9 @@
     "publicDashboardEnabled": false,
     "slug": "mongodb-instance-summary",
     "type": "db",
-    "updated": "2022-12-06T13:30:54Z",
+    "updated": "2022-12-13T14:07:11Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mongodb-instance-summary/mongodb-instance-summary",
-    "version": 2
+    "version": 3
   }
 }

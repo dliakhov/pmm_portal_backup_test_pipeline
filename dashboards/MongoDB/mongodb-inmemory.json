@@ -3785,7 +3785,7 @@
     "timezone": "",
     "title": "MongoDB InMemory Details",
     "uid": "mongodb-inmemory",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -3821,9 +3821,9 @@
     "publicDashboardEnabled": false,
     "slug": "mongodb-inmemory-details",
     "type": "db",
-    "updated": "2022-12-06T13:30:53Z",
+    "updated": "2022-12-13T14:07:08Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mongodb-inmemory/mongodb-inmemory-details",
-    "version": 2
+    "version": 3
   }
 }

@@ -918,7 +918,7 @@
     "timezone": "",
     "title": "MySQL Command/Handler Counters Compare",
     "uid": "mysql-commandhandler-compare",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -954,9 +954,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-command-handler-counters-compare",
     "type": "db",
-    "updated": "2022-12-06T13:30:56Z",
+    "updated": "2022-12-13T14:07:14Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-commandhandler-compare/mysql-command-handler-counters-compare",
-    "version": 2
+    "version": 3
   }
 }

@@ -5702,7 +5702,7 @@
     "timezone": "",
     "title": "MySQL User Details",
     "uid": "mysql-user",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -5738,9 +5738,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-user-details",
     "type": "db",
-    "updated": "2022-12-06T13:31:02Z",
+    "updated": "2022-12-13T14:07:23Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-user/mysql-user-details",
-    "version": 2
+    "version": 3
   }
 }

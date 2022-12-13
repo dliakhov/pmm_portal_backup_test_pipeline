@@ -4392,7 +4392,7 @@
     "timezone": "",
     "title": "ProxySQL Instance Summary",
     "uid": "proxysql-instance-summary",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -4428,9 +4428,9 @@
     "publicDashboardEnabled": false,
     "slug": "proxysql-instance-summary",
     "type": "db",
-    "updated": "2022-12-06T13:31:03Z",
+    "updated": "2022-12-13T14:07:24Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/proxysql-instance-summary/proxysql-instance-summary",
-    "version": 2
+    "version": 3
   }
 }
