@@ -5782,7 +5782,7 @@
     "timezone": "",
     "title": "MySQL Instance Summary",
     "uid": "mysql-instance-summary",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -5818,9 +5818,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-instance-summary",
     "type": "db",
-    "updated": "2022-12-06T13:31:00Z",
+    "updated": "2022-12-13T14:07:18Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-instance-summary/mysql-instance-summary",
-    "version": 2
+    "version": 3
   }
 }

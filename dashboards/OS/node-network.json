@@ -2961,7 +2961,7 @@
     "timezone": "",
     "title": "Network Details",
     "uid": "node-network",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -2997,9 +2997,9 @@
     "publicDashboardEnabled": false,
     "slug": "network-details",
     "type": "db",
-    "updated": "2022-12-06T13:31:07Z",
+    "updated": "2022-12-13T14:07:31Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/node-network/network-details",
-    "version": 2
+    "version": 3
   }
 }

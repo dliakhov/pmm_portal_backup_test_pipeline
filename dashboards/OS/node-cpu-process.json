@@ -2716,7 +2716,7 @@
     "timezone": "",
     "title": "Processes Details",
     "uid": "node-cpu-process",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -2752,9 +2752,9 @@
     "publicDashboardEnabled": false,
     "slug": "processes-details",
     "type": "db",
-    "updated": "2022-12-06T13:31:04Z",
+    "updated": "2022-12-13T14:07:26Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/node-cpu-process/processes-details",
-    "version": 2
+    "version": 3
   }
 }

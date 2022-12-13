@@ -5855,7 +5855,7 @@
     "timezone": "",
     "title": "MySQL MyRocks Details",
     "uid": "mysql-myrocks",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -5891,9 +5891,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-myrocks-details",
     "type": "db",
-    "updated": "2022-12-06T13:31:00Z",
+    "updated": "2022-12-13T14:07:19Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-myrocks/mysql-myrocks-details",
-    "version": 2
+    "version": 3
   }
 }

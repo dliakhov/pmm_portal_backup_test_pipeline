@@ -4040,7 +4040,7 @@
     "timezone": "",
     "title": "MySQL Performance Schema Details",
     "uid": "mysql-performance-schema",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -4076,9 +4076,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-performance-schema-details",
     "type": "db",
-    "updated": "2022-12-06T13:31:00Z",
+    "updated": "2022-12-13T14:07:20Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-performance-schema/mysql-performance-schema-details",
-    "version": 2
+    "version": 3
   }
 }

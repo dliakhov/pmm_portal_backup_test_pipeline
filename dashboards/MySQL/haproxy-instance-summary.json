@@ -8444,7 +8444,7 @@
     "timezone": "",
     "title": "HAProxy Instance Summary",
     "uid": "haproxy-instance-summary",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -8480,9 +8480,9 @@
     "publicDashboardEnabled": false,
     "slug": "haproxy-instance-summary",
     "type": "db",
-    "updated": "2022-12-06T13:30:55Z",
+    "updated": "2022-12-13T14:07:13Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/haproxy-instance-summary/haproxy-instance-summary",
-    "version": 2
+    "version": 3
   }
 }

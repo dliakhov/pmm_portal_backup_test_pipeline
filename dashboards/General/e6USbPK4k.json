@@ -112,7 +112,7 @@
               "uid": "PA58DA793C7250F1B"
             },
             "editorMode": "code",
-            "expr": "node_memory_Percpu_bytes",
+            "expr": "node_memory_Active_file_bytes",
             "legendFormat": "__auto",
             "range": true,
             "refId": "A"
@@ -136,7 +136,7 @@
     "timezone": "",
     "title": "Test dashboard",
     "uid": "e6USbPK4k",
-    "version": 5,
+    "version": 8,
     "weekStart": ""
   },
   "meta": {
@@ -172,9 +172,9 @@
     "publicDashboardEnabled": false,
     "slug": "test-dashboard",
     "type": "db",
-    "updated": "2022-12-13T14:04:57Z",
+    "updated": "2022-12-13T15:48:50Z",
     "updatedBy": "admin",
     "url": "/graph/d/e6USbPK4k/test-dashboard",
-    "version": 5
+    "version": 8
   }
 }

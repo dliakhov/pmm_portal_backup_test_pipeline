@@ -10562,7 +10562,7 @@
     "timezone": "",
     "title": "Nodes Overview",
     "uid": "node-instance-overview",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -10598,9 +10598,9 @@
     "publicDashboardEnabled": false,
     "slug": "nodes-overview",
     "type": "db",
-    "updated": "2022-12-06T13:31:05Z",
+    "updated": "2022-12-13T14:07:28Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/node-instance-overview/nodes-overview",
-    "version": 2
+    "version": 3
   }
 }

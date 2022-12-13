@@ -5888,7 +5888,7 @@
     "timezone": "",
     "title": "PostgreSQL Instance Summary",
     "uid": "postgresql-instance-summary",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -5924,9 +5924,9 @@
     "publicDashboardEnabled": false,
     "slug": "postgresql-instance-summary",
     "type": "db",
-    "updated": "2022-12-06T13:31:08Z",
+    "updated": "2022-12-13T14:07:33Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/postgresql-instance-summary/postgresql-instance-summary",
-    "version": 2
+    "version": 3
   }
 }

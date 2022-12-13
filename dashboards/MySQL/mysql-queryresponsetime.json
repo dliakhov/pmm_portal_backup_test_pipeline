@@ -3756,7 +3756,7 @@
     "timezone": "",
     "title": "MySQL Query Response Time Details",
     "uid": "mysql-queryresponsetime",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -3792,9 +3792,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-query-response-time-details",
     "type": "db",
-    "updated": "2022-12-06T13:31:01Z",
+    "updated": "2022-12-13T14:07:20Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-queryresponsetime/mysql-query-response-time-details",
-    "version": 2
+    "version": 3
   }
 }

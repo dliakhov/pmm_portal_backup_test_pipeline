@@ -3751,7 +3751,7 @@
     "timezone": "",
     "title": "MySQL InnoDB Compression Details",
     "uid": "mysql-innodb-compression",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -3787,9 +3787,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-innodb-compression-details",
     "type": "db",
-    "updated": "2022-12-06T13:30:57Z",
+    "updated": "2022-12-13T14:07:15Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-innodb-compression/mysql-innodb-compression-details",
-    "version": 2
+    "version": 3
   }
 }

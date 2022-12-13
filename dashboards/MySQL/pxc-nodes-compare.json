@@ -2554,7 +2554,7 @@
     "timezone": "",
     "title": "PXC/Galera Nodes Compare",
     "uid": "pxc-nodes-compare",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -2590,9 +2590,9 @@
     "publicDashboardEnabled": false,
     "slug": "pxc-galera-nodes-compare",
     "type": "db",
-    "updated": "2022-12-06T13:31:03Z",
+    "updated": "2022-12-13T14:07:26Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/pxc-nodes-compare/pxc-galera-nodes-compare",
-    "version": 2
+    "version": 3
   }
 }

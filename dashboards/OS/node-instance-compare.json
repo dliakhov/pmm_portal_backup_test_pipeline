@@ -3486,7 +3486,7 @@
     "timezone": "",
     "title": "Nodes Compare",
     "uid": "node-instance-compare",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -3522,9 +3522,9 @@
     "publicDashboardEnabled": false,
     "slug": "nodes-compare",
     "type": "db",
-    "updated": "2022-12-06T13:31:05Z",
+    "updated": "2022-12-13T14:07:28Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/node-instance-compare/nodes-compare",
-    "version": 2
+    "version": 3
   }
 }

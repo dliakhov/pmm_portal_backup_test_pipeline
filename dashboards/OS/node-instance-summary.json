@@ -4165,7 +4165,7 @@
     "timezone": "",
     "title": "Node Summary",
     "uid": "node-instance-summary",
-    "version": 2,
+    "version": 3,
     "weekStart": ""
   },
   "meta": {
@@ -4201,9 +4201,9 @@
     "publicDashboardEnabled": false,
     "slug": "node-summary",
     "type": "db",
-    "updated": "2022-12-06T13:31:06Z",
+    "updated": "2022-12-13T14:07:29Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/node-instance-summary/node-summary",
-    "version": 2
+    "version": 3
   }
 }
