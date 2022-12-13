@@ -112,13 +112,13 @@
               "uid": "PA58DA793C7250F1B"
             },
             "editorMode": "code",
-            "expr": "node_cpu_seconds_total",
+            "expr": "node_memory_Percpu_bytes",
             "legendFormat": "__auto",
             "range": true,
             "refId": "A"
           }
         ],
-        "title": "Test chart",
+        "title": "Test chart 2",
         "type": "timeseries"
       }
     ],
@@ -136,7 +136,7 @@
     "timezone": "",
     "title": "Test dashboard",
     "uid": "e6USbPK4k",
-    "version": 3,
+    "version": 5,
     "weekStart": ""
   },
   "meta": {
@@ -172,9 +172,9 @@
     "publicDashboardEnabled": false,
     "slug": "test-dashboard",
     "type": "db",
-    "updated": "2022-12-06T13:30:50Z",
-    "updatedBy": "Anonymous",
+    "updated": "2022-12-13T14:04:57Z",
+    "updatedBy": "admin",
     "url": "/graph/d/e6USbPK4k/test-dashboard",
-    "version": 3
+    "version": 5
   }
 }
