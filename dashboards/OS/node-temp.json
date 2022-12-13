@@ -1012,7 +1012,7 @@
     "timezone": "",
     "title": "Node Temperature Details",
     "uid": "node-temp",
-    "version": 1,
+    "version": 2,
     "weekStart": ""
   },
   "meta": {
@@ -1048,9 +1048,9 @@
     "publicDashboardEnabled": false,
     "slug": "node-temperature-details",
     "type": "db",
-    "updated": "2022-11-28T11:40:18Z",
+    "updated": "2022-12-06T13:31:07Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/node-temp/node-temperature-details",
-    "version": 1
+    "version": 2
   }
 }

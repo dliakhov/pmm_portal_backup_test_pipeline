@@ -2040,7 +2040,7 @@
     "timezone": "",
     "title": "CPU Utilization Details",
     "uid": "node-cpu",
-    "version": 1,
+    "version": 2,
     "weekStart": ""
   },
   "meta": {
@@ -2076,9 +2076,9 @@
     "publicDashboardEnabled": false,
     "slug": "cpu-utilization-details",
     "type": "db",
-    "updated": "2022-11-28T11:40:18Z",
+    "updated": "2022-12-06T13:31:04Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/node-cpu/cpu-utilization-details",
-    "version": 1
+    "version": 2
   }
 }

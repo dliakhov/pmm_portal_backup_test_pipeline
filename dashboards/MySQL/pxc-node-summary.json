@@ -2383,7 +2383,7 @@
     "timezone": "",
     "title": "PXC/Galera Node Summary",
     "uid": "pxc-node-summary",
-    "version": 1,
+    "version": 2,
     "weekStart": ""
   },
   "meta": {
@@ -2419,9 +2419,9 @@
     "publicDashboardEnabled": false,
     "slug": "pxc-galera-node-summary",
     "type": "db",
-    "updated": "2022-11-28T11:40:16Z",
+    "updated": "2022-12-06T13:31:03Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/pxc-node-summary/pxc-galera-node-summary",
-    "version": 1
+    "version": 2
   }
 }

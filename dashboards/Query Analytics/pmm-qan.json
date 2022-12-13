@@ -488,7 +488,7 @@
     "timezone": "",
     "title": "PMM Query Analytics",
     "uid": "pmm-qan",
-    "version": 1
+    "version": 2
   },
   "meta": {
     "annotationsPermissions": {
@@ -523,9 +523,9 @@
     "publicDashboardEnabled": false,
     "slug": "pmm-query-analytics",
     "type": "db",
-    "updated": "2022-11-28T11:40:18Z",
+    "updated": "2022-12-06T13:31:08Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/pmm-qan/pmm-query-analytics",
-    "version": 1
+    "version": 2
   }
 }

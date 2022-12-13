@@ -2449,7 +2449,7 @@
     "timezone": "",
     "title": "MongoDB Instances Compare",
     "uid": "mongodb-instance-compare",
-    "version": 1,
+    "version": 2,
     "weekStart": ""
   },
   "meta": {
@@ -2485,9 +2485,9 @@
     "publicDashboardEnabled": false,
     "slug": "mongodb-instances-compare",
     "type": "db",
-    "updated": "2022-11-28T11:40:19Z",
+    "updated": "2022-12-06T13:30:53Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mongodb-instance-compare/mongodb-instances-compare",
-    "version": 1
+    "version": 2
   }
 }

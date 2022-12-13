@@ -2133,7 +2133,7 @@
     "timezone": "",
     "title": "PXC/Galera Cluster Summary",
     "uid": "pxc-cluster-summary",
-    "version": 1,
+    "version": 2,
     "weekStart": ""
   },
   "meta": {
@@ -2169,9 +2169,9 @@
     "publicDashboardEnabled": false,
     "slug": "pxc-galera-cluster-summary",
     "type": "db",
-    "updated": "2022-11-28T11:40:16Z",
+    "updated": "2022-12-06T13:31:03Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/pxc-cluster-summary/pxc-galera-cluster-summary",
-    "version": 1
+    "version": 2
   }
 }

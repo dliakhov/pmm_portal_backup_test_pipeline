@@ -8458,7 +8458,7 @@
     "timezone": "",
     "title": "MySQL TokuDB Details",
     "uid": "mysql-tokudb",
-    "version": 1,
+    "version": 2,
     "weekStart": ""
   },
   "meta": {
@@ -8494,9 +8494,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-tokudb-details",
     "type": "db",
-    "updated": "2022-11-28T11:40:19Z",
+    "updated": "2022-12-06T13:31:02Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-tokudb/mysql-tokudb-details",
-    "version": 1
+    "version": 2
   }
 }

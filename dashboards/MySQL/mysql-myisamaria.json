@@ -3894,7 +3894,7 @@
     "timezone": "",
     "title": "MySQL MyISAM/Aria Details",
     "uid": "mysql-myisamaria",
-    "version": 1,
+    "version": 2,
     "weekStart": ""
   },
   "meta": {
@@ -3930,9 +3930,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-myisam-aria-details",
     "type": "db",
-    "updated": "2022-11-28T11:40:17Z",
+    "updated": "2022-12-06T13:31:00Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-myisamaria/mysql-myisam-aria-details",
-    "version": 1
+    "version": 2
   }
 }

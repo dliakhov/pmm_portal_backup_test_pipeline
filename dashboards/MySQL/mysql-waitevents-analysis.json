@@ -3387,7 +3387,7 @@
     "timezone": "",
     "title": "MySQL Wait Event Analyses Details",
     "uid": "mysql-waitevents-analysis",
-    "version": 1,
+    "version": 2,
     "weekStart": ""
   },
   "meta": {
@@ -3423,9 +3423,9 @@
     "publicDashboardEnabled": false,
     "slug": "mysql-wait-event-analyses-details",
     "type": "db",
-    "updated": "2022-11-28T11:40:18Z",
+    "updated": "2022-12-06T13:31:02Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/mysql-waitevents-analysis/mysql-wait-event-analyses-details",
-    "version": 1
+    "version": 2
   }
 }

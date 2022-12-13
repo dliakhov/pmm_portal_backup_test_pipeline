@@ -4932,7 +4932,7 @@
     "timezone": "",
     "title": "Home Dashboard",
     "uid": "pmm-home",
-    "version": 1,
+    "version": 2,
     "weekStart": ""
   },
   "meta": {
@@ -4968,9 +4968,9 @@
     "publicDashboardEnabled": false,
     "slug": "home-dashboard",
     "type": "db",
-    "updated": "2022-11-28T11:40:18Z",
+    "updated": "2022-12-06T13:30:50Z",
     "updatedBy": "Anonymous",
     "url": "/graph/d/pmm-home/home-dashboard",
-    "version": 1
+    "version": 2
   }
 }
